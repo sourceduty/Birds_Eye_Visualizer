@@ -13,6 +13,10 @@ To tailor the images to individual preferences, the Bird's Eye Visualizer follow
 ![Bird's Eye Visualizer](https://github.com/user-attachments/assets/866c05ed-41cb-4fcd-86bd-ecd3a3c21379)
 
 #
+
+![Bird's Eye](https://github.com/user-attachments/assets/ad972f51-c16b-4cd5-89c8-ab819ad116a3)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
