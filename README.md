@@ -12,6 +12,16 @@ To tailor the images to individual preferences, the Bird's Eye Visualizer follow
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Image Tagger](https://github.com/sourceduty/Image_Tagger)
+<br>
+[Photo Location](https://github.com/sourceduty/Photo_Location)
+<br>
+[Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
+<br>
+[Image Emulator](https://github.com/sourceduty/Image_Emulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
