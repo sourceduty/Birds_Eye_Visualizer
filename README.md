@@ -30,6 +30,8 @@ To tailor the images to individual preferences, the Bird's Eye Visualizer follow
 [Makeshift Art](https://github.com/sourceduty/Makeshift_DALL-E_3)
 <br>
 [Image Emulator](https://github.com/sourceduty/Image_Emulator)
+<br>
+[House Design](https://github.com/sourceduty/House_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
