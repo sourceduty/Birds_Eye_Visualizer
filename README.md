@@ -14,6 +14,8 @@ To tailor the images to individual preferences, the Bird's Eye Visualizer follow
 ![Bird's Eye](https://github.com/user-attachments/assets/ad972f51-c16b-4cd5-89c8-ab819ad116a3)
 #
 ![NEOM](https://github.com/user-attachments/assets/e5a5fa0d-2f5c-402a-8ed7-2d50b45ed619)
+#
+![Bird's Eye Visualizer](https://github.com/user-attachments/assets/6fb34fff-7440-4f00-89ea-0ea0af52f635)
 
 #
 ### Related Links
