@@ -1,4 +1,5 @@
 ![Example](https://github.com/user-attachments/assets/e7cfaaa7-2505-44da-8de9-de41cba48643)
+![Bird's Eye](https://github.com/user-attachments/assets/c811f573-7d12-4070-9bce-bf7ef97c3dcd)
 
 > Create landscape design images in bird's eye view using DALL-E 3.
 
