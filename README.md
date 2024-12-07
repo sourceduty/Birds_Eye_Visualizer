@@ -10,6 +10,15 @@
 To tailor the images to individual preferences, the Bird's Eye Visualizer follows a guided, step-by-step process. Users can choose from various styles and features, and the GPT asks clarifying questions along the way to ensure the final image aligns with their desired look and feel. Whether a user wants a lush backyard retreat, a sleek modern garden, or an inviting public park, this custom GPT offers a comprehensive top-down view that showcases the layout, color schemes, and textures of the proposed design, providing a valuable tool for planning and visualizing outdoor spaces.
 
 #
+### Bird's Eye Planning
+
+![Map](https://github.com/user-attachments/assets/7a261aa7-15bb-4e44-9fff-57009d9ccf02)
+
+Planning outdoor spaces using bird's eye view images created by this custom GPT offers a transformative way to visualize and design landscapes with precision and creativity. These top-down visualizations provide a clear, comprehensive perspective that helps users better understand spatial relationships, scale, and layout. Whether designing a backyard retreat, a sprawling urban park, or a commercial outdoor area, these images allow users to experiment with placement of key features such as pathways, patios, water features, and plant arrangements. By presenting the design as a cohesive whole, bird's eye views make it easier to evaluate functionality, accessibility, and aesthetic harmony, ensuring that every element works in unison.
+
+Using this approach in the planning process saves time and resources by reducing the guesswork typically involved in outdoor design. Users can see how various materials, textures, and color schemes will look together before breaking ground, minimizing costly revisions later. The bird's eye perspective also helps clients and stakeholders better understand the design vision, fostering clearer communication and collaboration. With attention to detail and scalability, the GPT can tailor visualizations to projects of any size, providing invaluable support for landscape architects, homeowners, and urban planners alike. It bridges the gap between conceptual ideas and tangible results, empowering users to bring their outdoor visions to life with confidence.
+
+#
 ![Bird's Eye Visualizer](https://github.com/user-attachments/assets/866c05ed-41cb-4fcd-86bd-ecd3a3c21379)
 #
 ![Bird's Eye](https://github.com/user-attachments/assets/ad972f51-c16b-4cd5-89c8-ab819ad116a3)
